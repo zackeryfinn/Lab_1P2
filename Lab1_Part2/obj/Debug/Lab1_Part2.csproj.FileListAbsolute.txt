@@ -1,0 +1,7 @@
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\obj\Debug\Lab1_Part2.csprojAssemblyReference.cache
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\obj\Debug\Lab1_Part2.csproj.CoreCompileInputs.cache
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\bin\Debug\Lab1_Part2.exe.config
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\bin\Debug\Lab1_Part2.exe
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\bin\Debug\Lab1_Part2.pdb
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\obj\Debug\Lab1_Part2.exe
+C:\Users\zacke\source\repos\Lab1_Part2\Lab1_Part2\obj\Debug\Lab1_Part2.pdb
